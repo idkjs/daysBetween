@@ -1,6 +1,6 @@
 daysBetween: clean 
-	ocamlbuild -use-ocamlfind src/daysBetween.native
-	mv daysBetween.native daysBetween
+	ocamlbuild -no-links -use-ocamlfind src/daysBetween.native
+	mv _build/src/daysBetween.native daysBetween
 
 clean:
 	$(RM) -rf daysBetween _build/* 
