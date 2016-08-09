@@ -21,6 +21,7 @@ I want to build it
 You'll need:
 
  * Ocaml
+ * opam
  * ocamlbuild
  * Make
 
