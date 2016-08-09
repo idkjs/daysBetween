@@ -10,8 +10,13 @@ $ daysBetween 2016-01-01 2016-01-04
 3
 ```
 
-How to build it
-===============
+I just want to use it
+=====================
+
+Cool, you can download it from the [Releases](https://github.com/spencerwi/daysBetween/releases) tab at the top of this page.
+ 
+I want to build it
+==================
 
 You'll need:
 
