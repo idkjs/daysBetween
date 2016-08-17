@@ -10,6 +10,8 @@ $ daysBetween 2016-01-01 2016-01-04
 3
 ```
 
+It also supports the words `now` and `today` to mean the current date. 
+
 I just want to use it
 =====================
 
